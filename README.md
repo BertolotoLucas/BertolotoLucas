@@ -1,4 +1,4 @@
-## Nice to meet you, i'm Lucas Bertoloto!
+## Nice to meet you, I am Lucas Bertoloto!
 
 ## Welcome to my GitHub profile 👋
 
