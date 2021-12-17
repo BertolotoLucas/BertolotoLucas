@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile 👋
 
-- I am a computer systems graduate from Universidade Federal Fluminense and currently I develop systems using Java and I am looking to specialize in APIs and microservices using Spring.
+- I am a computer systems graduate from Universidade Federal Fluminense and currently I am developing systems using Java and I am looking to specialize in APIs and microservices using Spring.
 - In my spare time I like to watch TV series, play online games with friends, hang out with my girlfriend, and develop sensor projects using Arduino.
 
 ## Tools and Technologies
